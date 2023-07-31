@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#box{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 10%;
+    
+}
+#area{
+    display: flex;
+    width: 30%;
+    height: 200px;
+    margin-left: 34%;
+    margin-top: 10%;
+    background-color: aquamarine;
+    text-align: center;
+    justify-content: center;
+    padding-top: 7%;
+    font-size: larger;
+}
+#game{
+    text-align: center;
+}
